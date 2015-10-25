@@ -1,0 +1,19 @@
+{
+  "name": "lararepo",
+  "version": "0.0.1",
+  "authors": [
+    "fieldhawker <fieldhawker@gmail.com>"
+  ],
+  "description": "lararepo",
+  "license": "MIT",
+  "dependencies": {
+    "chosen": "https://s3.amazonaws.com/github-cloud/releases/1631024/a0cd02d2-8fac-11e3-8d39-51131cd1f273.zip?response-content-disposition=attachment%3B%20filename%3Dchosen_v1.1.0.zip&AWSAccessKeyId=AKIAISTNZFOVBIJMK3TQ&Expires=1404665670&Signature=2v5KuHDs4AuVHWENELgvA92NUhs%3D",
+    "datatables": "~1.9.4",
+    "colorbox": "~1.4.33",
+    "flot": "~0.8.2",
+    "fullcalendar": "2.0.2",
+    "jquery": "2.0.3",
+    "responsive-tables": "git@github.com:zurb/responsive-tables.git",
+    "bootstrap-tour": "~0.8.0"
+  }
+}
